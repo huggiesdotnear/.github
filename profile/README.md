@@ -21,6 +21,11 @@ ft_nft_market - trade nft's with FT's
 <br/>
 🚧
 
+ft_sub_store
+<br/>
+turn your near account into a sub account store and sell accounts for an ft token
+<br/>
+🚧
 
 
 
