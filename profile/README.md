@@ -8,7 +8,9 @@ THE ONLY DIAPER COMPANY IN CRYPTO
 
 ### Bringing Value to FT's on NEAR
 
-ft_staking_contract - stake and earn with FT's
+ft_staking_contract
+<br/>
+stake and earn with FT's
 <br/>
 🍴 https://github.com/huggiesdotnear/ft_staking_contract
 
@@ -32,6 +34,14 @@ ft_gas_relayer
 <br/>
 🚧 some sort of contract for gas relaying?
 
+ft_clicker
+<br/>
+an app of some sort for clicking/taping, like notcoin, and they get instant rewards
+
+
+ft_slot_machine
+<br/>
+🚧
 
 ---
 ![](../src/blue_banner_100px.svg)
