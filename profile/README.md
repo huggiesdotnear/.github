@@ -38,6 +38,10 @@ ft_clicker
 <br/>
 an app of some sort for clicking/taping, like notcoin, and they get instant rewards
 
+ft_greeting
+<br/>
+a hello contract for getting and seting a greeting
+
 
 ft_slot_machine
 <br/>
