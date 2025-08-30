@@ -50,4 +50,9 @@ ft_slot_machine
 ---
 ![](../src/blue_banner_100px.svg)
 
+✈️ https://t.me/huggiesdotnear
+〇 https://huggies.near.social/
+🔗 https://huggies.near.page/
+🐱 https://github.com/huggiesdotnear
+
 copyright 2025 by huggies.near and sleet.near
