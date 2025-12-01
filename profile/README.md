@@ -17,6 +17,8 @@ THE ONLY DIAPER COMPANY IN CRYPTO
 <br/>
 🔗 https://huggies.near.page/
 <br/>
+🔗 https://shit-1170.near.page/
+<br/>
 🐱 https://github.com/huggiesdotnear
 
 copyright 2025 by huggies.near and sleet.near
