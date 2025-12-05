@@ -11,6 +11,8 @@ THE ONLY DIAPER COMPANY IN CRYPTO
 
 ✈️ https://t.me/huggiesdotnear
 <br/>
+👾 https://discord.gg/Kz9QsGtHw3
+<br/>
 𝕏 https://x.com/shitonnear
 <br/>
 〇 https://huggies.near.social/
