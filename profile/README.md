@@ -9,6 +9,11 @@ THE ONLY DIAPER COMPANY IN CRYPTO
 ---
 ![](../src/blue_banner_100px.svg)
 
+
+🔗 https://huggies.near.page/
+<br/>
+🔗 https://shit-1170.near.page/
+<br/>
 ✈️ https://t.me/huggiesdotnear
 <br/>
 👾 https://discord.gg/Kz9QsGtHw3
@@ -16,10 +21,6 @@ THE ONLY DIAPER COMPANY IN CRYPTO
 𝕏 https://x.com/shitonnear
 <br/>
 〇 https://huggies.near.social/
-<br/>
-🔗 https://huggies.near.page/
-<br/>
-🔗 https://shit-1170.near.page/
 <br/>
 🐱 https://github.com/huggiesdotnear
 
