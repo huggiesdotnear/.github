@@ -8,7 +8,7 @@ THE ONLY DIAPER COMPANY IN CRYPTO
 
 **shit-1170-rex-engine**
 <br/>
-https://shit-1170.com/
+🌐 https://shit-1170.com/
 <br/>
 🐱 https://github.com/huggiesdotnear/huggies-rex-engine
 <br/>
