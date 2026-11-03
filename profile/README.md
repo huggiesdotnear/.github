@@ -2,7 +2,7 @@
 
 THE ONLY DIAPER COMPANY IN CRYPTO
 
-<!--![](../src/red_banner_100px.svg)-->
+![](../src/red_banner_100px.svg)
 
 ---
 
